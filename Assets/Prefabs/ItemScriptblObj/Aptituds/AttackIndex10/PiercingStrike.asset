@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0a692570f1fef43927c73dfd0b92f8, type: 3}
+  m_Name: PiercingStrike
+  m_EditorClassIdentifier: 
+  NameItem: PiercingStrike
+  Id: 10.5
+  isStakable: 1
+  SpriteItem: {fileID: 21300000, guid: b65d241d691f91e45ba2994020812ee8, type: 3}
+  description: Ignores the target's shield and deals direct damage
+  _prise: 13
+  _typeAptitude: 0
+  Action: {fileID: 11400000, guid: cca7ebacbb349aa40acc8f0bee03e202, type: 2}

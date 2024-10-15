@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcbf9ed7aee75514293697b4906e4b03, type: 3}
+  m_Name: Helm
+  m_EditorClassIdentifier: 
+  NameItem: Helm
+  Id: 3
+  isStakable: 0
+  SpriteItem: {fileID: 21300000, guid: fb64bbd003619de458e9725e990f4232, type: 3}
+  description: "The Helm is a protective headgear \ndesigned to safeguard the wearer\nwith
+    durability and comfort in combat."
+  _prise: 12
+  _typeWearables: 0
+  typeBonusWearables: 2
+  ValueBonusWearables: 8

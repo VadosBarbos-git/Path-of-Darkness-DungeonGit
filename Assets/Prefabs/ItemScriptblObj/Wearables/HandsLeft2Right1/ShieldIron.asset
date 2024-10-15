@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcbf9ed7aee75514293697b4906e4b03, type: 3}
+  m_Name: ShieldIron
+  m_EditorClassIdentifier: 
+  NameItem: Iron Shield
+  Id: 2.1
+  isStakable: 0
+  SpriteItem: {fileID: 21300000, guid: 67a10f5cc6592cd428757f4d5f9befcf, type: 3}
+  description: "The Iron Shield is a robust\n defense tool, providing\n excellent
+    protection and \ndurability against attacks."
+  _prise: 10
+  _typeWearables: 2
+  typeBonusWearables: 1
+  ValueBonusWearables: 3

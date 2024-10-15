@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0a692570f1fef43927c73dfd0b92f8, type: 3}
+  m_Name: VampiricBarrier
+  m_EditorClassIdentifier: 
+  NameItem: Vampiric Barrier
+  Id: 11.6
+  isStakable: 1
+  SpriteItem: {fileID: 21300000, guid: f1512b405a4bad940a4a961e681dae24, type: 3}
+  description: 'Upon successful defense,
+
+    wounds the enemy and heals the hero
+
+    by
+    5 units'
+  _prise: 15
+  _typeAptitude: 1
+  Action: {fileID: 11400000, guid: fdd9c0743060a8b4194d925620bddf08, type: 2}
